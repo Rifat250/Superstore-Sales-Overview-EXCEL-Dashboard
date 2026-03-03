@@ -1,12 +1,12 @@
-📊 __Superstore Sales Overview Dashboard | Excel__
+# 📊 __Superstore Sales Overview Dashboard | Excel__
 
-1️⃣ __Title__
+## 1️⃣ __Title__
 
 Superstore Sales Performance & Regional Analysis Dashboard Using Excel
 
-2️⃣ __Executive Summary__
+## 2️⃣ __Executive Summary__
 
-🔍 __Business Problem__
+### 🔍 __Business Problem__
 
 Retail businesses operate with thin margins and complex regional distribution. However, leadership often lacks clear visibility into:
 * Which regions drive the highest revenue and profit
@@ -17,7 +17,7 @@ Retail businesses operate with thin margins and complex regional distribution. H
 
 Without a centralized analytical view, decisions around inventory planning, regional strategy, and logistics optimization become reactive rather than strategic.
 
-💡 __Solution__
+### 💡 __Solution__
 
 To address this, I built an interactive Excel dashboard that:
 * Consolidates Sales, Profit, and Quantity KPIs
@@ -28,7 +28,7 @@ To address this, I built an interactive Excel dashboard that:
 
 The dashboard transforms transactional retail data into an executive-ready performance monitoring system.
 
-📈 __Business Impact (Analytical Insights)__
+### 📈 __Business Impact (Analytical Insights)__
 * $2.30M Total Sales and $286K Profit identified with clear YoY growth trends
 * November recorded the highest sales month ($352K) → strong seasonality insight
 * Standard Class shipping accounts for 60% of total orders → operational concentration
@@ -37,7 +37,7 @@ The dashboard transforms transactional retail data into an executive-ready perfo
 
 This analysis enables improved inventory planning, regional focus, and logistics optimization.
 
-3️⃣ __Business Problem (Scenario Explanation)__
+## 3️⃣ __Business Problem (Scenario Explanation)__
 
 In multi-region retail operations, businesses commonly face:
 * Uneven regional sales performance
@@ -54,9 +54,9 @@ This project simulates a real-world executive reporting scenario where leadershi
 * Product-level contribution analysis
 * Shipping efficiency insights
 
-4️⃣ __Methodology__
+## 4️⃣ __Methodology__
 
-📊 __Analytical Approach__
+### 📊 __Analytical Approach__
 
 This project uses:
 * Sales and Profit aggregation analysis
@@ -66,7 +66,7 @@ This project uses:
 * Sub-category revenue comparison
 * Geographic performance mapping
 
-🛠 __Dashboard Development Approach__
+### 🛠 __Dashboard Development Approach__
 
 The dashboard follows a structured analytical framework:
 
@@ -87,8 +87,8 @@ Excel was selected because:
 
 The focus was clarity, usability, and decision-making relevance.
 
-5️⃣ __Technical Skills Applied__
-📌 __Excel & Business Intelligence Skills__
+## 5️⃣ __Technical Skills Applied__
+### 📌 __Excel & Business Intelligence Skills__
 
 * PivotTables
 * PivotCharts
@@ -98,7 +98,7 @@ The focus was clarity, usability, and decision-making relevance.
 * Data Cleaning & Structuring
 * Dashboard Layout & Visual Optimization
 
-📌 __Analytical Concepts Used__
+### 📌 __Analytical Concepts Used__
 * Revenue & Profitability Analysis
 * Year-over-Year (YoY) Growth Tracking
 * Seasonal Sales Trend Analysis
@@ -106,23 +106,23 @@ The focus was clarity, usability, and decision-making relevance.
 * Shipping Efficiency Analysis
 * Product Performance Comparison
 
-6️⃣ __Results & Business Recommendations__
+## 6️⃣ __Results & Business Recommendations__
 
-📊 __Key Findings__
+### 📊 __Key Findings__
 * Sales peak in Q4, particularly November → strong seasonal demand pattern
 * Standard Class dominates shipping → potential cost optimization opportunity
 * California drives highest state-level sales
 * New York City leads city-level performance
 * Phones significantly outperform other sub-categories
 
-💡 __Business Recommendations__
+### 💡 __Business Recommendations__
 * Strengthen inventory planning before Q4 demand surge
 * Optimize Standard Class shipping cost structure
 * Allocate marketing budgets toward high-performing regions
 * Develop bundled or promotional strategies around top-selling product categories
 * Monitor delivery duration to improve customer satisfaction
 
-📂 __Project Structure__
+### 📂 __Project Structure__
 * Dataset Sheet – Cleaned superstore transactional data
 * Pivot Tables – KPI computation and segmentation
 * Dashboard – Interactive executive-level visualization
